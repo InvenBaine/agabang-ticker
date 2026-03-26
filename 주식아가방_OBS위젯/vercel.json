@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/api/market", "destination": "/api/market.js" }
-  ]
-}
